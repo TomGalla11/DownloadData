@@ -1,3 +1,4 @@
+cd
 pip install pipenv
 pipenv install opencv-contrib-python
 pipenv install Flask
